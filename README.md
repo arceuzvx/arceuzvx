@@ -1,7 +1,11 @@
+
+
 <h1 align="center">Hi , I'm Shreya Dutta</h1>
 <h3 align="center">A passionate Cyber Security student with an interest in AI/ML and web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arceuzvx&label=Profile%20views&color=0e75b6&style=flat" alt="arceuzvx" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/7vdlbr6lcVAmGK7lhB.webp">
 
 - 🖤 I’m currently working on **Security-log-analyzer**
 
@@ -14,8 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shreya-dutta-cybersecurity/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreya-dutta-cybersecurity/" height="30" width="40" /></a>
-</p>
-<a href="https://x.com/arceuzvx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arceuzvx" height="30" width="40" /></a>
+</p> <a href="https://x.com/arceuzvx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arceuzvx" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arceuzvx&theme=tokyonight" alt="arceuzvx" /></a> </p>
